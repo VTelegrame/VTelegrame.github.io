@@ -1,7 +1,7 @@
 {
     "name": "Telegram WebK",
     "short_name": "Telegram WebK",
-    "start_url": "./",
+    "start_url": "https://vtelegrame.github.io/",
     "description": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
     "icons": [
         {
